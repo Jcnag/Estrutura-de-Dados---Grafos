@@ -1,0 +1,10 @@
+#Teste de Busca em Largura (BFS):
+
+python Busca_largura(BFS).py graph_matrix.txt bfs 0
+
+#Teste de Busca em Largura (BFS):
+
+python Busca_profundidade(DFS).py graph_matrix.txt bfs 0
+
+
+
